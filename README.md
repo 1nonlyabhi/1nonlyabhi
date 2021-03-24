@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Abhishek</h1>
-<p align="left"> <a href="https://twitter.com/1nonlyabhi" target="blank"><img src="https://img.shields.io/twitter/follow/1nonlyabhi?logo=twitter&style=for-the-badge" alt="1nonlyabhi" /></a> </p>
-
 <h3 align="center">A student & backend developer from India</h3>
+
+<p align="center"> <a href="https://twitter.com/1nonlyabhi" target="blank"><img src="https://img.shields.io/twitter/follow/1nonlyabhi?logo=twitter&style=for-the-badge" alt="1nonlyabhi" /></a> </p>
 
 
 - 🔭 I’m currently working on **Django Framework.**
