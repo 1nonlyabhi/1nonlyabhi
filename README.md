@@ -1,24 +1,50 @@
-<h1 align="center">Hi there 👋, I'm Abhishek</h1>
-<h3 align="center">A student & backend developer from India</h3>
-
-<p align="center"> <a href="https://twitter.com/1nonlyabhi" target="blank"><img src="https://img.shields.io/twitter/follow/1nonlyabhi?logo=twitter&style=for-the-badge" alt="1nonlyabhi" /></a> </p>
-
-
-- 🔭 I’m currently working on **Django Framework.**
-
-- 🌱 I’m currently learning **JavaScript & Flutter.**
-
-- 💬 Ask me about **Python & Django.**
-
-- 📫 How to reach me **abhishek.gupta0407@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/1nonlyabhi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="1nonlyabhi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/1nonlyabhi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="1nonlyabhi" height="30" width="40" /></a>
-<a href="https://fb.com/1nonlyabhi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="1nonlyabhi" height="30" width="40" /></a>
-<a href="https://instagram.com/1nonlyabhi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="1nonlyabhi" height="30" width="40" /></a>
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=abhishek%20kr.%20gupta&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4&desc=software%20engineer%20@%20oracle%20cerner,%20India%20🇮🇳&descAlignY=73&descAlign=61.5" alt="header"  style="max-width: 100%; center;">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://twitter.com/1nonlyabhi" target="blank"><img src="https://img.shields.io/twitter/follow/1nonlyabhi?color=1DA1F2&logo=twitter&style=for-the-badge" alt="1nonlyabhi" /></a> </p>
+
+<img align="right" alt="NUX_Octodex" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="400"/>
+
+- 🔭 I’m currently working on **Spring Boot with Java 8.**
+
+- 🌱 I’m currently learning **Golang, MERN stack, Kubernetes.**
+
+- 🤝 I’m looking to collaborate on **Open Source** projects.
+
+- 💬 Ask me about **Spring Boot, React, Django, Docker.**
+
+- 📬 E-mail me on: **[Outlook](mailto:abhishek.gupta0407@outlook.com)** @ abhishek.gupta0407@outlook.com
+
+- ⚡ Fun fact: I love reading BooKs 📚, _writing_ 🖋️ and watching web series 🎬.
+<br></br>
+<a href="https://github.com/marketplace/actions/quote-readme">
+    <i>❝ "Pessimists, we're told, look at a glass containing 50% air and 50% water and see it as half empty. Optimists, in contrast, see it as half full. Engineers, of course, understand the glass is twice as big as it needs to be." — Bob Lewis ❞</i>
+</a>
+
+<h3 align="left"> 🌐 Connect with me:</h3>
+<p align="left">
+    <img width="20"/>
+    <a href="https://twitter.com/1nonlyabhi" target="blank"> <img align="center" src="https://img.icons8.com/plasticine/100/000000/twitter.png" alt="1nonlyabhi" width="50" /> </a>
+    <a href="https://linkedin.com/in/1nonlyabhi" target="blank"> <img align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" alt="1nonlyabhi" width="50" /> </a>
+    <a href="https://fb.com/1nonlyabhi" target="blank"> <img align="center" src="https://img.icons8.com/plasticine/100/000000/facebook-new.png" alt="1nonlyabhi" width="50" /> </a>
+    <a href="mailto:abhishek.gupta0407@outlook.com" target="blank"> <img align="center" src="https://img.icons8.com/plasticine/100/000000/gmail.png" alt="1nonlyabhi" width="50" /> </a>
+    <a href="mailto:gabhishek.0407@gmail.com" target="blank"> <img align="center" src="https://img.icons8.com/plasticine/100/000000/microsoft-outlook-2019.png" alt="1nonlyabhi" width="50" /> </a>
+</p>
+
+<h3 align="left"> 🛠️ Lang & Tools:</h3>
+<p align="left">
+    <img width="20"/>
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="springboot" width="40" height="40"/>
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="reactJs" width="40" height="40"/>
+    <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="redux" width="40" height="40"/>
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="40" height="40"/>
+    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="django" width="40" height="40"/>
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="40" height="40"/>
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" alt="mongodb" width="40" height="40">
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="vscode" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="intelliJ" width="40" height="40"/>
+</p>
