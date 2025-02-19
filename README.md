@@ -4,20 +4,21 @@
 
 <p align="center"> <a href="https://twitter.com/1nonlyabhi" target="blank"><img src="https://img.shields.io/twitter/follow/1nonlyabhi?color=1DA1F2&logo=twitter&style=for-the-badge" alt="1nonlyabhi" /></a> </p>
 
-<img align="right" alt="NUX_Octodex" src="https://github.com/user-attachments/assets/f56c61c1-b64e-402d-98a6-df20125eec70" width="400"/>
+<img align="right" alt="NUX_Octodex" src="https://github.com/user-attachments/assets/1801945e-531e-404f-8b2c-83e8abc49760" width="380"/>
 
-- 🔭 Currently working on **Spring Boot, Java, Docker, and Microservices.**
+- 🔭 Experienced in *Spring Boot, Java, Docker, & Microservices.*
 
-- 🌱 Learning new lang & tech like: **Golang, MERN, Kubernetes.**
+- 🌱 Exploring *Golang, MERN stack, Kubernetes.*
 
-- 🤝 Looking to collaborate on **Open Source** projects.
+- 🤝 Open to collaborating to *Open Source* projects.
 
-- 💬 Ask me about **Spring Boot, React, Django, Docker.**
+- 💬 Always eager to tackle challenges in *REST APIs, microservices, distributed systems, scalable architectures, and system design principles* — let’s connect and build something impactful.
 
-- 📬 E-mail me on: **[Outlook](mailto:abhishek.gupta0407@outlook.com)** @ abhishek.gupta0407@outlook.com
+- 📬 Reach me: **[Outlook](mailto:abhishek.gupta0407@outlook.com)** @ abhishek.gupta0407@outlook.com
 
-- ⚡ Fun fact: Love reading BooKs 📚, _writing_ 🖋️ and watching web series 🎬.
-<br></br>
+- ⚡ Beyond Tech: Enjoy exploring philosophy and storytelling, discovering new perspectives through books, writing, and series. 📚🖋️🎬
+
+<br>
 <a href="https://github.com/marketplace/actions/quote-readme">
     <i>❝ "Pessimists, we're told, look at a glass containing 50% air and 50% water and see it as half empty. Optimists, in contrast, see it as half full. Engineers, of course, understand the glass is twice as big as it needs to be." — Bob Lewis ❞</i>
 </a>
