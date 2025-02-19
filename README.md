@@ -4,19 +4,19 @@
 
 <p align="center"> <a href="https://twitter.com/1nonlyabhi" target="blank"><img src="https://img.shields.io/twitter/follow/1nonlyabhi?color=1DA1F2&logo=twitter&style=for-the-badge" alt="1nonlyabhi" /></a> </p>
 
-<img align="right" alt="NUX_Octodex" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="400"/>
+<img align="right" alt="NUX_Octodex" src="https://github.com/user-attachments/assets/f56c61c1-b64e-402d-98a6-df20125eec70" width="400"/>
 
-- 🔭 I’m currently working on **Spring Boot with Java 8.**
+- 🔭 Currently working on **Spring Boot, Java, Docker, and Microservices.**
 
-- 🌱 I’m currently learning **Golang, MERN stack, Kubernetes.**
+- 🌱 Learning new lang & tech like: **Golang, MERN, Kubernetes.**
 
-- 🤝 I’m looking to collaborate on **Open Source** projects.
+- 🤝 Looking to collaborate on **Open Source** projects.
 
 - 💬 Ask me about **Spring Boot, React, Django, Docker.**
 
 - 📬 E-mail me on: **[Outlook](mailto:abhishek.gupta0407@outlook.com)** @ abhishek.gupta0407@outlook.com
 
-- ⚡ Fun fact: I love reading BooKs 📚, _writing_ 🖋️ and watching web series 🎬.
+- ⚡ Fun fact: Love reading BooKs 📚, _writing_ 🖋️ and watching web series 🎬.
 <br></br>
 <a href="https://github.com/marketplace/actions/quote-readme">
     <i>❝ "Pessimists, we're told, look at a glass containing 50% air and 50% water and see it as half empty. Optimists, in contrast, see it as half full. Engineers, of course, understand the glass is twice as big as it needs to be." — Bob Lewis ❞</i>
@@ -42,6 +42,7 @@
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="40" height="40"/>
     <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="django" width="40" height="40"/>
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="40" height="40"/>
+    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" alt="mongodb" width="40" height="40">
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="40" height="40"/>
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="40" height="40"/>
