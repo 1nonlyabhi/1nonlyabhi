@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=abhishek%20kr.%20gupta&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4&desc=software%20engineer%20@%20oracle%20cerner,%20India%20🇮🇳&descAlignY=73&descAlign=61.5" alt="header"  style="max-width: 100%; center;">
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=abhishek%20kr.%20gupta&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4&desc=software%20developer%20@%20thoughtworks,%20India%20🇮🇳&descAlignY=73&descAlign=61.5" alt="header"  style="max-width: 100%; center;">
 </p>
 
 <p align="center"> <a href="https://twitter.com/1nonlyabhi" target="blank"><img src="https://img.shields.io/twitter/follow/1nonlyabhi?color=1DA1F2&logo=twitter&style=for-the-badge" alt="1nonlyabhi" /></a> </p>
